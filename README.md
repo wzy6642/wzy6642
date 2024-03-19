@@ -1,4 +1,7 @@
-Publications
+Publications:
+
+ - Instructing Large Language Models to Identify and Ignore Irrelevant Conditions by Z. Wu, M. Jiang, C. Shen. Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2024.
+ - Get an A in Math: Progressive Rectification Prompting by Z. Wu, M. Jiang, C. Shen. AAAI Conference on Artificial Intelligence (AAAI), 2024.
 
 <!--
 **wzy6642/wzy6642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
