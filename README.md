@@ -1,7 +1,7 @@
 🔭 **Publications:**
 
- - [Instructing Large Language Models to Identify and Ignore Irrelevant Conditions](https://wzy6642.github.io/I3C.github.io/) by **Z. Wu**, C. Shen, M. Jiang. Annual Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL](https://2024.naacl.org/)), 2024.
- - [Get an A in Math: Progressive Rectification Prompting](https://wzy6642.github.io/prp.github.io/) by **Z. Wu**, M. Jiang, C. Shen. AAAI Conference on Artificial Intelligence ([AAAI](https://aaai.org/aaai-conference/)), 2024.
+ - [Instructing Large Language Models to Identify and Ignore Irrelevant Conditions](https://wzy6642.github.io/I3C.github.io/) by **Z. Wu**, C. Shen, M. Jiang. [NAACL](https://2024.naacl.org/), 2024.
+ - [Get an A in Math: Progressive Rectification Prompting](https://wzy6642.github.io/prp.github.io/) by **Z. Wu**, M. Jiang, C. Shen. [AAAI](https://aaai.org/aaai-conference/), 2024.
 
 <!--
 **wzy6642/wzy6642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
