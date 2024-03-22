@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Zhenyu Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wzy6642&show_icons=true&theme=transparent)
+![Zhenyu Wu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wzy6642&layout=compact&hide_border=true&langs_count=10)
