@@ -1,5 +1,6 @@
 🔭 **Publications**
 
+ - [Large Language Models Can Self-Correct with Key Condition Verification](https://wzy6642.github.io/proco.github.io/) by **Z. Wu**, et al. [EMNLP](https://2024.emnlp.org/), 2024.
  - [Instructing Large Language Models to Identify and Ignore Irrelevant Conditions](https://wzy6642.github.io/I3C.github.io/) by **Z. Wu**, C. Shen, M. Jiang. [NAACL](https://2024.naacl.org/), 2024.
  - [Get an A in Math: Progressive Rectification Prompting](https://wzy6642.github.io/prp.github.io/) by **Z. Wu**, M. Jiang, C. Shen. [AAAI](https://aaai.org/aaai-conference/), 2024.
 
